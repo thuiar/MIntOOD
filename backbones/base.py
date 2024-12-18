@@ -5,6 +5,7 @@ from .FusionNets import multimodal_methods_map
 
 __all__ = ['ModelManager']
 
+# base backbones
 class MIA(nn.Module):
 
     def __init__(self, args):
