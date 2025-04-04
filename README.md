@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-This repository contains the official PyTorch implementation of the research paper [Multimodal Classification and Out-of-distribution Detection for Multimodal Intent Understanding](https://arxiv.org/abs/2412.12453). 
+This repository contains the official PyTorch implementation of the research paper [Multimodal Classification and Out-of-distribution Detection for Multimodal Intent Understanding (Accepted by IEEE TMM)](https://arxiv.org/abs/2412.12453). 
 
 Multimodal intent understanding is a substantial field that needs to utilize nonverbal modalities effectively in analyzing human language. However, there is a lack of research focused on adapting these methods to real-world scenarios with out-of-distribution (OOD) samples, a key aspect in creating robust and secure systems. In this paper, we propose MIntOOD, a module for OOD detection in multimodal intent understanding.
 
@@ -85,8 +85,8 @@ If you are insterested in this work, and want to use the codes or results in thi
 @article{zhang2024mintood,
       title={Multimodal Classification and Out-of-distribution Detection for Multimodal Intent Understanding}, 
       author={Hanlei Zhang and Qianrui Zhou and Hua Xu and Jianhua Su and Roberto Evans and Kai Gao},
-      year={2024},
-      journal={arXiv preprint arXiv:2412.12453},
+      year={2025},
+      journal={IEEE Transactions on Multimedia},
 }
 ```
 
